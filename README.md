@@ -1,3 +1,5 @@
+![TEXPERIA 2026 Banner](assets/images/banner.png)
+
 # 🔐 TEXPERIA 2026 – Capture The Flag (CTF)
 
 TEXPERIA 2026 is an elite **National-Level Capture The Flag (CTF) Cybersecurity Challenge** organized by the **Department of Computer Science and Engineering, SNS College of Technology**.
